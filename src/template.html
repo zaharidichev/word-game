@@ -121,7 +121,7 @@ input.ans.ghost{position:absolute;top:0;left:0;width:100%;height:66px;opacity:0;
     <div class="progress"><div id="bar"></div></div>
     <div class="row" style="justify-content:space-between;margin-bottom:6px">
       <span class="pill" id="turnPill">1 / 10</span>
-      <button class="b-yellow" id="speakBtn" type="button" title="Read it to me">🔊 Read</button>
+      <span class="row" style="gap:8px"><button class="b-yellow" id="speakBtn" type="button" title="Read it to me">🔊 Read</button><button class="b-peach" id="quitBtn" type="button" title="Stop and go back to the start">🏠 Menu</button></span>
     </div>
     <div class="meaning" id="meaning"></div>
     <div class="blanks" id="blanks"></div>
@@ -239,6 +239,7 @@ function end(){$('bar').style.width='100%';show('end');
   $('endSub').textContent=`${log.filter(l=>l.pts===2).length} without the picture · ${log.filter(l=>l.pts===1).length} with the picture · ${log.filter(l=>!l.pts).length} skipped`;
   $('results').innerHTML=log.map(l=>`<div class="res g${l.pts}">${l.w.s}<b>${l.w.w}</b><span>${'⭐'.repeat(l.pts)||'skipped'}</span></div>`).join('');}
 $('startBtn').onclick=start;$('againBtn').onclick=start;$('menuBtn').onclick=()=>{score=0;setScore();show('setup')};
+$('quitBtn').onclick=()=>{try{speechSynthesis.cancel()}catch(e){};done=true;deck=[];i=0;score=0;log=[];setScore();$('ans').value='';$('ans').blur();show('setup');window.scrollTo(0,0);};
 // ---- letter boxes / letter checking
 const letters=w=>w.toLowerCase().replace(/[^a-z]/g,'');
 function setupInput(w){
