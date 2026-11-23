@@ -1,0 +1,137 @@
+[
+ {
+  "from": 1,
+  "to": 3,
+  "name": "Aa"
+ },
+ {
+  "from": 4,
+  "to": 6,
+  "name": "Oo"
+ },
+ {
+  "from": 7,
+  "to": 10,
+  "name": "Ee"
+ },
+ {
+  "from": 11,
+  "to": 13,
+  "name": "Ii"
+ },
+ {
+  "from": 14,
+  "to": 16,
+  "name": "Uu"
+ },
+ {
+  "from": 17,
+  "to": 19,
+  "name": "Tt"
+ },
+ {
+  "from": 20,
+  "to": 23,
+  "name": "Hh"
+ },
+ {
+  "from": 24,
+  "to": 26,
+  "name": "Cc"
+ },
+ {
+  "from": 27,
+  "to": 29,
+  "name": "Pp"
+ },
+ {
+  "from": 30,
+  "to": 32,
+  "name": "Rr"
+ },
+ {
+  "from": 33,
+  "to": 36,
+  "name": "Ss"
+ },
+ {
+  "from": 37,
+  "to": 40,
+  "name": "Dd"
+ },
+ {
+  "from": 41,
+  "to": 43,
+  "name": "Jj"
+ },
+ {
+  "from": 44,
+  "to": 46,
+  "name": "Ff"
+ },
+ {
+  "from": 47,
+  "to": 50,
+  "name": "Nn"
+ },
+ {
+  "from": 51,
+  "to": 53,
+  "name": "Bb"
+ },
+ {
+  "from": 54,
+  "to": 58,
+  "name": "Mm"
+ },
+ {
+  "from": 59,
+  "to": 62,
+  "name": "Kk"
+ },
+ {
+  "from": 63,
+  "to": 65,
+  "name": "Vv"
+ },
+ {
+  "from": 70,
+  "to": 73,
+  "name": "Zz"
+ },
+ {
+  "from": 74,
+  "to": 78,
+  "name": "Yy"
+ },
+ {
+  "from": 79,
+  "to": 82,
+  "name": "Xx"
+ },
+ {
+  "from": 83,
+  "to": 85,
+  "name": "Ll"
+ },
+ {
+  "from": 86,
+  "to": 89,
+  "name": "Ww"
+ },
+ {
+  "from": 90,
+  "to": 93,
+  "name": "Qq"
+ },
+ {
+  "from": 94,
+  "to": 97,
+  "name": "ch sh th ph wh"
+ },
+ {
+  "from": 99,
+  "to": 106,
+  "name": "Stories"
+ }
+]

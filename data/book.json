@@ -1,0 +1,1871 @@
+[
+ {
+  "page": 1,
+  "word": "apple",
+  "meaning": "A round fruit. It can be red or green. It is sweet and crunchy.",
+  "example": "I eat a red apple.",
+  "picture": "apple"
+ },
+ {
+  "page": 1,
+  "word": "banana",
+  "meaning": "A long yellow fruit. You peel it before you eat it.",
+  "example": "The monkey eats a banana.",
+  "picture": "banana"
+ },
+ {
+  "page": 1,
+  "word": "alligator",
+  "meaning": "A big animal with a long mouth and sharp teeth. It lives in rivers.",
+  "example": "The alligator swims in the river.",
+  "picture": "alligator"
+ },
+ {
+  "page": 1,
+  "word": "computer",
+  "meaning": "A machine with a screen. You use it to work, play and learn.",
+  "example": "I play games on the computer.",
+  "picture": "computer"
+ },
+ {
+  "page": 1,
+  "word": "axe",
+  "meaning": "A tool with a sharp metal head. People use it to cut wood.",
+  "example": "Dad cuts wood with an axe.",
+  "picture": "axe"
+ },
+ {
+  "page": 1,
+  "word": "ant",
+  "meaning": "A very small insect. They live together in big groups.",
+  "example": "A small ant is on my hand.",
+  "picture": "ant"
+ },
+ {
+  "page": 2,
+  "word": "acrobat",
+  "meaning": "A person who jumps, flips and balances, like at a circus.",
+  "example": "The acrobat jumps very high.",
+  "picture": "acrobat"
+ },
+ {
+  "page": 3,
+  "word": "cat",
+  "meaning": "A small, soft pet with whiskers. It says \"meow\".",
+  "example": "My cat likes milk.",
+  "picture": "cat"
+ },
+ {
+  "page": 3,
+  "word": "bag",
+  "meaning": "You carry things in it.",
+  "example": "My books are in my bag.",
+  "picture": "bag"
+ },
+ {
+  "page": 3,
+  "word": "hat",
+  "meaning": "You wear it on your head.",
+  "example": "I wear a hat in the sun.",
+  "picture": "hat"
+ },
+ {
+  "page": 3,
+  "word": "hand",
+  "meaning": "The end of your arm. It has five fingers.",
+  "example": "Raise your hand, please.",
+  "picture": "hand"
+ },
+ {
+  "page": 4,
+  "word": "octopus",
+  "meaning": "A sea animal with eight long arms.",
+  "example": "The octopus lives in the sea.",
+  "picture": "octopus"
+ },
+ {
+  "page": 4,
+  "word": "ostrich",
+  "meaning": "A very big bird with long legs. It runs fast but cannot fly.",
+  "example": "The ostrich runs very fast.",
+  "picture": "ostrich"
+ },
+ {
+  "page": 4,
+  "word": "olive",
+  "meaning": "A small green or black fruit. It grows on a tree.",
+  "example": "I eat a green olive.",
+  "picture": "olive"
+ },
+ {
+  "page": 4,
+  "word": "walnut",
+  "meaning": "A nut with a hard, bumpy shell.",
+  "example": "The walnut has a hard shell.",
+  "picture": "walnut"
+ },
+ {
+  "page": 4,
+  "word": "ox",
+  "meaning": "A big, strong farm animal, like a cow with horns.",
+  "example": "The ox is big and strong.",
+  "picture": "ox"
+ },
+ {
+  "page": 5,
+  "word": "orange",
+  "meaning": "A round fruit with a thick peel. It is sweet and juicy.",
+  "example": "I drink orange juice.",
+  "picture": "orange"
+ },
+ {
+  "page": 6,
+  "word": "frog",
+  "meaning": "A small green animal. It jumps and says \"ribbit\".",
+  "example": "The frog jumps into the pond.",
+  "picture": "frog"
+ },
+ {
+  "page": 6,
+  "word": "sock",
+  "meaning": "You wear it on your foot, inside your shoe.",
+  "example": "I have a hole in my sock.",
+  "picture": "sock"
+ },
+ {
+  "page": 6,
+  "word": "mop",
+  "meaning": "A stick with soft strings. You use it to wash the floor.",
+  "example": "Mum cleans the floor with a mop.",
+  "picture": "mop"
+ },
+ {
+  "page": 6,
+  "word": "dog",
+  "meaning": "A pet that barks and wags its tail. It says \"woof\".",
+  "example": "My dog says woof!",
+  "picture": "dog"
+ },
+ {
+  "page": 7,
+  "word": "egg",
+  "meaning": "Baby birds and chicks come out of it. We eat them for breakfast.",
+  "example": "I eat an egg for breakfast.",
+  "picture": "egg"
+ },
+ {
+  "page": 7,
+  "word": "table",
+  "meaning": "Furniture with a flat top and four legs. You eat your dinner on it.",
+  "example": "We eat at the table.",
+  "picture": "table"
+ },
+ {
+  "page": 7,
+  "word": "elbow",
+  "meaning": "The middle of your arm. It lets your arm bend.",
+  "example": "I hurt my elbow.",
+  "picture": "elbow"
+ },
+ {
+  "page": 7,
+  "word": "hippo",
+  "meaning": "A very big, heavy animal. It lives near water in Africa.",
+  "example": "The hippo is in the water.",
+  "picture": "hippo"
+ },
+ {
+  "page": 7,
+  "word": "envelope",
+  "meaning": "A paper cover. You put a letter inside to send it.",
+  "example": "I put the letter in an envelope.",
+  "picture": "envelope"
+ },
+ {
+  "page": 7,
+  "word": "elephant",
+  "meaning": "A huge grey animal with big ears and a long nose (trunk).",
+  "example": "The elephant has big ears.",
+  "picture": "elephant"
+ },
+ {
+  "page": 9,
+  "word": "hen",
+  "meaning": "A girl chicken. She lays eggs.",
+  "example": "The hen lays an egg.",
+  "picture": "hen"
+ },
+ {
+  "page": 9,
+  "word": "nest",
+  "meaning": "A bird's home. Birds make it from small sticks.",
+  "example": "The bird is in its nest.",
+  "picture": "nest"
+ },
+ {
+  "page": 9,
+  "word": "desk",
+  "meaning": "A table you sit at to write or work.",
+  "example": "My books are on my desk.",
+  "picture": "desk"
+ },
+ {
+  "page": 10,
+  "word": "animal",
+  "meaning": "A living thing that moves, like a dog, a fish or a bird.",
+  "example": "A dog is an animal.",
+  "picture": "animal"
+ },
+ {
+  "page": 10,
+  "word": "bird",
+  "meaning": "An animal with feathers, wings and a beak. Most of them can fly.",
+  "example": "The bird sings in the tree.",
+  "picture": "bird"
+ },
+ {
+  "page": 10,
+  "word": "cow",
+  "meaning": "A big farm animal. It gives us milk. It says \"moo\".",
+  "example": "The cow says moo.",
+  "picture": "cow"
+ },
+ {
+  "page": 10,
+  "word": "mouse",
+  "meaning": "A very small animal with a long thin tail. It says \"squeak\".",
+  "example": "The mouse likes cheese.",
+  "picture": "mouse"
+ },
+ {
+  "page": 10,
+  "word": "giraffe",
+  "meaning": "A very tall animal with a very long neck.",
+  "example": "The giraffe has a long neck.",
+  "picture": "giraffe"
+ },
+ {
+  "page": 10,
+  "word": "tiger",
+  "meaning": "A big wild cat. It is orange with black stripes.",
+  "example": "The tiger has stripes.",
+  "picture": "tiger"
+ },
+ {
+  "page": 10,
+  "word": "spider",
+  "meaning": "A small animal with eight legs. It makes webs.",
+  "example": "The spider makes a web.",
+  "picture": "spider"
+ },
+ {
+  "page": 10,
+  "word": "bear",
+  "meaning": "A big, strong animal with thick fur.",
+  "example": "The bear is big and brown.",
+  "picture": "bear"
+ },
+ {
+  "page": 10,
+  "word": "fan",
+  "meaning": "A machine or a thing you wave. It makes cool air.",
+  "example": "The fan makes cool air.",
+  "picture": "fan"
+ },
+ {
+  "page": 10,
+  "word": "jam",
+  "meaning": "A sweet food made from fruit. You put it on bread.",
+  "example": "I like bread with jam.",
+  "picture": "jam"
+ },
+ {
+  "page": 10,
+  "word": "dad",
+  "meaning": "Your father.",
+  "example": "My dad is tall.",
+  "picture": "dad"
+ },
+ {
+  "page": 10,
+  "word": "lab",
+  "meaning": "A room where scientists do tests and experiments.",
+  "example": "The scientist works in a lab.",
+  "picture": "lab"
+ },
+ {
+  "page": 10,
+  "word": "rat",
+  "meaning": "An animal like a big mouse, with a long tail.",
+  "example": "The rat has a long tail.",
+  "picture": "rat"
+ },
+ {
+  "page": 10,
+  "word": "map",
+  "meaning": "A picture that shows where places are.",
+  "example": "Look at the map to find the way.",
+  "picture": "map"
+ },
+ {
+  "page": 11,
+  "word": "insect",
+  "meaning": "A small animal with six legs, like a bee or an ant.",
+  "example": "A bee is an insect.",
+  "picture": "insect"
+ },
+ {
+  "page": 11,
+  "word": "ink",
+  "meaning": "Coloured liquid inside a pen. It is used for writing.",
+  "example": "My pen has blue ink.",
+  "picture": "ink"
+ },
+ {
+  "page": 11,
+  "word": "iguana",
+  "meaning": "A big lizard. It is green and has spikes on its back.",
+  "example": "The iguana is green.",
+  "picture": "iguana"
+ },
+ {
+  "page": 11,
+  "word": "horse",
+  "meaning": "A big animal people can ride. It says \"neigh\".",
+  "example": "I ride a horse.",
+  "picture": "horse"
+ },
+ {
+  "page": 11,
+  "word": "igloo",
+  "meaning": "A round house made of snow and ice.",
+  "example": "The igloo is made of snow.",
+  "picture": "igloo"
+ },
+ {
+  "page": 13,
+  "word": "pig",
+  "meaning": "A pink farm animal with a curly tail. It says \"oink\".",
+  "example": "The pig is pink.",
+  "picture": "pig"
+ },
+ {
+  "page": 13,
+  "word": "hill",
+  "meaning": "High ground, like a small mountain.",
+  "example": "We walk up the hill.",
+  "picture": "hill"
+ },
+ {
+  "page": 13,
+  "word": "gift",
+  "meaning": "A present. Something you give someone.",
+  "example": "I have a gift for you!",
+  "picture": "gift"
+ },
+ {
+  "page": 14,
+  "word": "tent",
+  "meaning": "A small house made of cloth. You sleep in it when camping.",
+  "example": "We sleep in a tent.",
+  "picture": "tent"
+ },
+ {
+  "page": 14,
+  "word": "umbrella",
+  "meaning": "You hold it over your head when it rains.",
+  "example": "Take your umbrella. It is raining.",
+  "picture": "umbrella"
+ },
+ {
+  "page": 14,
+  "word": "butter",
+  "meaning": "Soft yellow food made from milk. You spread it on bread.",
+  "example": "I put butter on my bread.",
+  "picture": "butter"
+ },
+ {
+  "page": 14,
+  "word": "umpire",
+  "meaning": "A person who makes sure players follow the rules in a game.",
+  "example": "The umpire watches the game.",
+  "picture": "umpire"
+ },
+ {
+  "page": 14,
+  "word": "uncle",
+  "meaning": "Your mum's or dad's brother.",
+  "example": "My uncle is my dad's brother.",
+  "picture": "uncle"
+ },
+ {
+  "page": 14,
+  "word": "robot",
+  "meaning": "A machine that can move and do jobs, like a metal helper.",
+  "example": "The robot can walk and talk.",
+  "picture": "robot"
+ },
+ {
+  "page": 15,
+  "word": "bug",
+  "meaning": "A small insect, like a beetle or a ladybird.",
+  "example": "There is a bug on the leaf.",
+  "picture": "bug"
+ },
+ {
+  "page": 15,
+  "word": "mug",
+  "meaning": "A big cup with a handle for hot drinks.",
+  "example": "Dad drinks tea from a mug.",
+  "picture": "mug"
+ },
+ {
+  "page": 15,
+  "word": "net",
+  "meaning": "Strings tied together with holes. You catch fish or butterflies with it.",
+  "example": "I catch a fish with a net.",
+  "picture": "net"
+ },
+ {
+  "page": 15,
+  "word": "car",
+  "meaning": "A machine with four wheels. People drive it on roads.",
+  "example": "My dad has a red car.",
+  "picture": "car"
+ },
+ {
+  "page": 15,
+  "word": "box",
+  "meaning": "A container with flat sides. You put things inside.",
+  "example": "The cat is in the box.",
+  "picture": "box"
+ },
+ {
+  "page": 16,
+  "word": "rug",
+  "meaning": "A soft cloth that covers part of the floor.",
+  "example": "The dog sleeps on the rug.",
+  "picture": "rug"
+ },
+ {
+  "page": 16,
+  "word": "cup",
+  "meaning": "A small container you drink from.",
+  "example": "I drink milk from a cup.",
+  "picture": "cup"
+ },
+ {
+  "page": 16,
+  "word": "nut",
+  "meaning": "A food with a hard shell. It grows on trees.",
+  "example": "The squirrel eats a nut.",
+  "picture": "nut"
+ },
+ {
+  "page": 17,
+  "word": "teacher",
+  "meaning": "A person who helps children learn at school.",
+  "example": "My teacher is very nice.",
+  "picture": "teacher"
+ },
+ {
+  "page": 17,
+  "word": "turtle",
+  "meaning": "An animal with a hard shell on its back. It moves slowly.",
+  "example": "The turtle is very slow.",
+  "picture": "turtle"
+ },
+ {
+  "page": 20,
+  "word": "hot dog",
+  "meaning": "A sausage in a long bread roll.",
+  "example": "I eat a hot dog at the park.",
+  "picture": "hot-dog"
+ },
+ {
+  "page": 20,
+  "word": "house",
+  "meaning": "A building where people live.",
+  "example": "I live in a big house.",
+  "picture": "house"
+ },
+ {
+  "page": 20,
+  "word": "tree",
+  "meaning": "A tall plant with a wooden trunk, branches and leaves.",
+  "example": "The bird is in the tree.",
+  "picture": "tree"
+ },
+ {
+  "page": 20,
+  "word": "fence",
+  "meaning": "A wall made of wood or metal around a garden.",
+  "example": "The dog jumps over the fence.",
+  "picture": "fence"
+ },
+ {
+  "page": 20,
+  "word": "swing",
+  "meaning": "A seat that hangs on ropes. You go back and forth on it.",
+  "example": "I play on the swing.",
+  "picture": "swing"
+ },
+ {
+  "page": 21,
+  "word": "gorilla",
+  "meaning": "A very big, strong ape with black fur.",
+  "example": "The gorilla is very strong.",
+  "picture": "gorilla"
+ },
+ {
+  "page": 21,
+  "word": "girl",
+  "meaning": "A child who will grow up to be a woman.",
+  "example": "The girl has long hair.",
+  "picture": "girl"
+ },
+ {
+  "page": 22,
+  "word": "bed",
+  "meaning": "You sleep in it at night.",
+  "example": "I go to bed at eight.",
+  "picture": "bed"
+ },
+ {
+  "page": 22,
+  "word": "hut",
+  "meaning": "A small, simple house.",
+  "example": "The hut is small.",
+  "picture": "hut"
+ },
+ {
+  "page": 23,
+  "word": "body",
+  "meaning": "All of you, from your head to your feet.",
+  "example": "Wash your body in the bath.",
+  "picture": "body"
+ },
+ {
+  "page": 23,
+  "word": "foot",
+  "meaning": "The part at the end of your leg. You stand on it.",
+  "example": "I kick the ball with my foot.",
+  "picture": "foot"
+ },
+ {
+  "page": 23,
+  "word": "mouth",
+  "meaning": "You eat and talk with it.",
+  "example": "Open your mouth wide.",
+  "picture": "mouth"
+ },
+ {
+  "page": 23,
+  "word": "ear",
+  "meaning": "It is on the side of your head. You use it to listen. You have two.",
+  "example": "I hear with my ear.",
+  "picture": "ear"
+ },
+ {
+  "page": 23,
+  "word": "face",
+  "meaning": "The front of your head, with your eyes, nose and mouth.",
+  "example": "Wash your face, please.",
+  "picture": "face"
+ },
+ {
+  "page": 23,
+  "word": "nose",
+  "meaning": "You smell and breathe with it.",
+  "example": "I smell with my nose.",
+  "picture": "nose"
+ },
+ {
+  "page": 23,
+  "word": "neck",
+  "meaning": "It joins your head to your body.",
+  "example": "The giraffe has a long neck.",
+  "picture": "neck"
+ },
+ {
+  "page": 23,
+  "word": "eye",
+  "meaning": "You see with it. You have two.",
+  "example": "Close one eye.",
+  "picture": "eye"
+ },
+ {
+  "page": 23,
+  "word": "leg",
+  "meaning": "You walk and run with it. You have two.",
+  "example": "I hurt my leg.",
+  "picture": "leg"
+ },
+ {
+  "page": 23,
+  "word": "head",
+  "meaning": "The top part of your body. Your brain is inside.",
+  "example": "I wear a hat on my head.",
+  "picture": "head"
+ },
+ {
+  "page": 23,
+  "word": "bib",
+  "meaning": "A cloth a baby wears so food doesn't get on its clothes.",
+  "example": "The baby wears a bib.",
+  "picture": "bib"
+ },
+ {
+  "page": 23,
+  "word": "rim",
+  "meaning": "The edge around the top of something, like a cup.",
+  "example": "The cup has a red rim.",
+  "picture": "rim"
+ },
+ {
+  "page": 23,
+  "word": "bin",
+  "meaning": "A box or can for rubbish.",
+  "example": "Put the paper in the bin.",
+  "picture": "bin"
+ },
+ {
+  "page": 23,
+  "word": "tin",
+  "meaning": "A metal can for food.",
+  "example": "The beans are in a tin.",
+  "picture": "tin"
+ },
+ {
+  "page": 23,
+  "word": "kid",
+  "meaning": "A child.",
+  "example": "The kid plays in the park.",
+  "picture": "kid"
+ },
+ {
+  "page": 24,
+  "word": "crocodile",
+  "meaning": "A big animal with a long mouth and sharp teeth, like an alligator.",
+  "example": "The crocodile has big teeth.",
+  "picture": "crocodile"
+ },
+ {
+  "page": 25,
+  "word": "clown",
+  "meaning": "A funny person with a painted face and big shoes.",
+  "example": "The clown is very funny.",
+  "picture": "clown"
+ },
+ {
+  "page": 27,
+  "word": "pineapple",
+  "meaning": "A big fruit with spiky skin and sweet yellow inside.",
+  "example": "The pineapple is sweet.",
+  "picture": "pineapple"
+ },
+ {
+  "page": 27,
+  "word": "pen",
+  "meaning": "You write with it. It has ink inside.",
+  "example": "I write with a blue pen.",
+  "picture": "pen"
+ },
+ {
+  "page": 27,
+  "word": "peach",
+  "meaning": "A soft, round fruit with fuzzy skin and a big seed.",
+  "example": "This peach is soft and sweet.",
+  "picture": "peach"
+ },
+ {
+  "page": 27,
+  "word": "panda",
+  "meaning": "A black and white bear. It eats bamboo.",
+  "example": "The panda eats bamboo.",
+  "picture": "panda"
+ },
+ {
+  "page": 27,
+  "word": "parrot",
+  "meaning": "A colourful bird. Some of them can copy what people say.",
+  "example": "The parrot can talk.",
+  "picture": "parrot"
+ },
+ {
+  "page": 28,
+  "word": "pencil",
+  "meaning": "You write and draw with it. A rubber can take away what you made.",
+  "example": "My pencil is yellow.",
+  "picture": "pencil"
+ },
+ {
+  "page": 28,
+  "word": "jug",
+  "meaning": "A container with a handle. You pour drinks from it.",
+  "example": "The jug is full of water.",
+  "picture": "jug"
+ },
+ {
+  "page": 28,
+  "word": "teddy bear",
+  "meaning": "A soft, cuddly toy animal with round ears.",
+  "example": "I hug my teddy bear.",
+  "picture": "teddy-bear"
+ },
+ {
+  "page": 28,
+  "word": "nurse",
+  "meaning": "A person who looks after sick people.",
+  "example": "The nurse helps sick people.",
+  "picture": "nurse"
+ },
+ {
+  "page": 30,
+  "word": "rose",
+  "meaning": "A pretty flower. It smells nice and has thorns.",
+  "example": "The rose is red.",
+  "picture": "rose"
+ },
+ {
+  "page": 30,
+  "word": "rice",
+  "meaning": "Small white grains we cook and eat.",
+  "example": "We eat rice for lunch.",
+  "picture": "rice"
+ },
+ {
+  "page": 30,
+  "word": "lamp",
+  "meaning": "It gives light in a room.",
+  "example": "Turn on the lamp, please.",
+  "picture": "lamp"
+ },
+ {
+  "page": 30,
+  "word": "rabbit",
+  "meaning": "A small furry animal with long ears. It hops.",
+  "example": "The rabbit has long ears.",
+  "picture": "rabbit"
+ },
+ {
+  "page": 30,
+  "word": "list",
+  "meaning": "Words written one under another, like the things you need from the shop.",
+  "example": "Mum writes a shopping list.",
+  "picture": "list"
+ },
+ {
+  "page": 31,
+  "word": "rubber",
+  "meaning": "A small thing that rubs out pencil marks. Also called an eraser.",
+  "example": "Can I use your rubber?",
+  "picture": "rubber"
+ },
+ {
+  "page": 31,
+  "word": "ladybird",
+  "meaning": "A small red bug with black spots.",
+  "example": "The ladybird has black spots.",
+  "picture": "ladybird"
+ },
+ {
+  "page": 33,
+  "word": "sun",
+  "meaning": "The big, bright star in the sky. It gives us light.",
+  "example": "The sun is hot today.",
+  "picture": "sun"
+ },
+ {
+  "page": 33,
+  "word": "sandwich",
+  "meaning": "Food between two pieces of bread.",
+  "example": "I have a cheese sandwich.",
+  "picture": "sandwich"
+ },
+ {
+  "page": 33,
+  "word": "seal",
+  "meaning": "A sea animal with flippers. It swims and barks.",
+  "example": "The seal swims in the sea.",
+  "picture": "seal"
+ },
+ {
+  "page": 35,
+  "word": "pit",
+  "meaning": "A hole in the ground. Also: the hard seed in a fruit.",
+  "example": "The peach has a big pit.",
+  "picture": "pit"
+ },
+ {
+  "page": 35,
+  "word": "book",
+  "meaning": "Pages with words and pictures. You read it.",
+  "example": "I read a book before bed.",
+  "picture": "book"
+ },
+ {
+  "page": 35,
+  "word": "safety pin",
+  "meaning": "A bent piece of metal with a cover, so the sharp end doesn't poke you.",
+  "example": "Mum fixes my dress with a safety pin.",
+  "picture": "safety-pin"
+ },
+ {
+  "page": 35,
+  "word": "kite",
+  "meaning": "A toy that flies in the wind on a long string.",
+  "example": "My kite flies high.",
+  "picture": "kite"
+ },
+ {
+  "page": 37,
+  "word": "doll",
+  "meaning": "A toy that looks like a baby or a person.",
+  "example": "My doll has a pink dress.",
+  "picture": "doll"
+ },
+ {
+  "page": 37,
+  "word": "duck",
+  "meaning": "A bird that swims. It says \"quack\".",
+  "example": "The duck says quack.",
+  "picture": "duck"
+ },
+ {
+  "page": 37,
+  "word": "doghouse",
+  "meaning": "A small wooden home for a pet that barks.",
+  "example": "The dog sleeps in its doghouse.",
+  "picture": "doghouse"
+ },
+ {
+  "page": 37,
+  "word": "bone",
+  "meaning": "The hard parts inside your body. Dogs like to chew them.",
+  "example": "The dog has a bone.",
+  "picture": "bone"
+ },
+ {
+  "page": 38,
+  "word": "ball",
+  "meaning": "A round toy. You throw, kick or bounce it.",
+  "example": "Kick the ball to me!",
+  "picture": "ball"
+ },
+ {
+  "page": 39,
+  "word": "pet",
+  "meaning": "An animal that lives with you, like a cat or a dog.",
+  "example": "My pet is a cat.",
+  "picture": "pet"
+ },
+ {
+  "page": 39,
+  "word": "dot",
+  "meaning": "A very small round mark. •",
+  "example": "Put a dot on the i.",
+  "picture": "dot"
+ },
+ {
+  "page": 40,
+  "word": "date",
+  "meaning": "The day, month and year, like 21 June.",
+  "example": "What is the date today?",
+  "picture": "date"
+ },
+ {
+  "page": 40,
+  "word": "tape",
+  "meaning": "A sticky strip. You use it to stick things together.",
+  "example": "I fix the paper with tape.",
+  "picture": "tape"
+ },
+ {
+  "page": 40,
+  "word": "rope",
+  "meaning": "A long, thick, strong string.",
+  "example": "We jump with a rope.",
+  "picture": "rope"
+ },
+ {
+  "page": 40,
+  "word": "bus",
+  "meaning": "A big car that carries many people.",
+  "example": "I go to school by bus.",
+  "picture": "bus"
+ },
+ {
+  "page": 41,
+  "word": "jet",
+  "meaning": "A very fast plane.",
+  "example": "The jet is very fast.",
+  "picture": "jet"
+ },
+ {
+  "page": 41,
+  "word": "juice",
+  "meaning": "A drink made from fruit.",
+  "example": "I drink apple juice.",
+  "picture": "juice"
+ },
+ {
+  "page": 41,
+  "word": "jeans",
+  "meaning": "Blue trousers made of strong cloth.",
+  "example": "I wear blue jeans.",
+  "picture": "jeans"
+ },
+ {
+  "page": 41,
+  "word": "goat",
+  "meaning": "A farm animal with horns and a little beard.",
+  "example": "The goat eats grass.",
+  "picture": "goat"
+ },
+ {
+  "page": 42,
+  "word": "jelly",
+  "meaning": "A soft, wobbly, sweet food.",
+  "example": "I like red jelly.",
+  "picture": "jelly"
+ },
+ {
+  "page": 42,
+  "word": "juggler",
+  "meaning": "A person who throws and catches many things at once.",
+  "example": "The juggler throws three balls.",
+  "picture": "juggler"
+ },
+ {
+  "page": 44,
+  "word": "fork",
+  "meaning": "You eat with it. It has sharp points.",
+  "example": "I eat with a fork.",
+  "picture": "fork"
+ },
+ {
+  "page": 44,
+  "word": "fish",
+  "meaning": "An animal that lives and swims in water.",
+  "example": "The fish swims in the water.",
+  "picture": "fish"
+ },
+ {
+  "page": 44,
+  "word": "farm",
+  "meaning": "A place where people grow food and keep animals.",
+  "example": "Cows live on a farm.",
+  "picture": "farm"
+ },
+ {
+  "page": 45,
+  "word": "diver",
+  "meaning": "A person who swims under water with special gear.",
+  "example": "The diver swims under the water.",
+  "picture": "diver"
+ },
+ {
+  "page": 47,
+  "word": "milk",
+  "meaning": "A white drink. It comes from cows.",
+  "example": "I drink milk every day.",
+  "picture": "milk"
+ },
+ {
+  "page": 49,
+  "word": "men",
+  "meaning": "More than one man.",
+  "example": "Two men are at the door.",
+  "picture": "men"
+ },
+ {
+  "page": 51,
+  "word": "boot",
+  "meaning": "A big shoe that covers your foot and ankle.",
+  "example": "I wear a boot in the snow.",
+  "picture": "boot"
+ },
+ {
+  "page": 52,
+  "word": "boy",
+  "meaning": "A child who will grow up to be a man.",
+  "example": "The boy is my friend.",
+  "picture": "boy"
+ },
+ {
+  "page": 54,
+  "word": "monkey",
+  "meaning": "A funny animal that climbs trees. It has a long tail.",
+  "example": "The monkey climbs the tree.",
+  "picture": "monkey"
+ },
+ {
+  "page": 54,
+  "word": "money",
+  "meaning": "Coins and notes. You use it to buy things.",
+  "example": "I have money to buy sweets.",
+  "picture": "money"
+ },
+ {
+  "page": 54,
+  "word": "muffin",
+  "meaning": "A small, sweet cake.",
+  "example": "I eat a muffin for breakfast.",
+  "picture": "muffin"
+ },
+ {
+  "page": 55,
+  "word": "moon",
+  "meaning": "It shines in the sky at night.",
+  "example": "The moon is bright tonight.",
+  "picture": "moon"
+ },
+ {
+  "page": 57,
+  "word": "toy",
+  "meaning": "A thing children play with.",
+  "example": "My favourite toy is a doll.",
+  "picture": "toy"
+ },
+ {
+  "page": 57,
+  "word": "balloon",
+  "meaning": "A rubber bag filled with air. It can float.",
+  "example": "My balloon is red.",
+  "picture": "balloon"
+ },
+ {
+  "page": 57,
+  "word": "train",
+  "meaning": "A long line of cars that move on tracks.",
+  "example": "The train is very long.",
+  "picture": "train"
+ },
+ {
+  "page": 57,
+  "word": "plane",
+  "meaning": "A machine that flies in the sky and carries people.",
+  "example": "The plane flies in the sky.",
+  "picture": "plane"
+ },
+ {
+  "page": 57,
+  "word": "boat",
+  "meaning": "It carries people on water.",
+  "example": "The boat is on the lake.",
+  "picture": "boat"
+ },
+ {
+  "page": 57,
+  "word": "lorry",
+  "meaning": "A big truck that carries heavy things.",
+  "example": "The lorry is very big.",
+  "picture": "lorry"
+ },
+ {
+  "page": 57,
+  "word": "coat",
+  "meaning": "Warm clothes you wear over your other clothes.",
+  "example": "Put on your coat. It is cold.",
+  "picture": "coat"
+ },
+ {
+  "page": 57,
+  "word": "stream",
+  "meaning": "A small river.",
+  "example": "The fish swim in the stream.",
+  "picture": "stream"
+ },
+ {
+  "page": 57,
+  "word": "toad",
+  "meaning": "An animal like a frog, with dry, bumpy skin.",
+  "example": "The toad sits on a rock.",
+  "picture": "toad"
+ },
+ {
+  "page": 57,
+  "word": "street",
+  "meaning": "A road in a town with houses or shops.",
+  "example": "I live on a quiet street.",
+  "picture": "street"
+ },
+ {
+  "page": 57,
+  "word": "bee",
+  "meaning": "A flying insect. It makes honey and can sting.",
+  "example": "The bee makes honey.",
+  "picture": "bee"
+ },
+ {
+  "page": 57,
+  "word": "cloud",
+  "meaning": "A white or grey fluffy shape in the sky. Rain falls from it.",
+  "example": "There is a big cloud in the sky.",
+  "picture": "cloud"
+ },
+ {
+  "page": 58,
+  "word": "cap",
+  "meaning": "A hat with a front part that keeps the sun off your eyes.",
+  "example": "I wear a cap in the sun.",
+  "picture": "cap"
+ },
+ {
+  "page": 59,
+  "word": "king",
+  "meaning": "A man who rules a country. He wears a crown.",
+  "example": "The king has a crown.",
+  "picture": "king"
+ },
+ {
+  "page": 59,
+  "word": "kangaroo",
+  "meaning": "An animal from Australia. It hops and carries its baby in a pouch.",
+  "example": "The kangaroo can jump.",
+  "picture": "kangaroo"
+ },
+ {
+  "page": 59,
+  "word": "key",
+  "meaning": "You open a lock with it.",
+  "example": "I open the door with a key.",
+  "picture": "key"
+ },
+ {
+  "page": 62,
+  "word": "ham",
+  "meaning": "Meat from a pig. You can put it in a sandwich.",
+  "example": "I have a ham sandwich.",
+  "picture": "ham"
+ },
+ {
+  "page": 63,
+  "word": "vet",
+  "meaning": "An animal doctor.",
+  "example": "The vet helps my sick dog.",
+  "picture": "vet"
+ },
+ {
+  "page": 63,
+  "word": "vest",
+  "meaning": "Clothes for the top of your body, with no sleeves.",
+  "example": "I wear a vest under my shirt.",
+  "picture": "vest"
+ },
+ {
+  "page": 63,
+  "word": "lemon",
+  "meaning": "A yellow fruit. It tastes very sour.",
+  "example": "The lemon is sour.",
+  "picture": "lemon"
+ },
+ {
+  "page": 63,
+  "word": "van",
+  "meaning": "A big car for carrying things or people.",
+  "example": "The van is full of boxes.",
+  "picture": "van"
+ },
+ {
+  "page": 63,
+  "word": "violin",
+  "meaning": "A music instrument with strings. You play it with a bow.",
+  "example": "She plays the violin.",
+  "picture": "violin"
+ },
+ {
+  "page": 65,
+  "word": "pan",
+  "meaning": "A metal pot with a handle. You cook in it.",
+  "example": "Mum cooks eggs in a pan.",
+  "picture": "pan"
+ },
+ {
+  "page": 70,
+  "word": "zip",
+  "meaning": "A closer with small teeth on clothes or bags.",
+  "example": "Pull up your zip.",
+  "picture": "zip"
+ },
+ {
+  "page": 70,
+  "word": "zebra",
+  "meaning": "An animal like a horse with black and white stripes.",
+  "example": "The zebra has black and white stripes.",
+  "picture": "zebra"
+ },
+ {
+  "page": 70,
+  "word": "zoo",
+  "meaning": "A place where you can see wild animals.",
+  "example": "We see lions at the zoo.",
+  "picture": "zoo"
+ },
+ {
+  "page": 70,
+  "word": "fox",
+  "meaning": "A wild animal like a dog, with orange fur and a bushy tail.",
+  "example": "The fox has a bushy tail.",
+  "picture": "fox"
+ },
+ {
+  "page": 73,
+  "word": "bat",
+  "meaning": "A small animal with wings that flies at night. Also: a stick to hit a ball.",
+  "example": "The bat flies at night.",
+  "picture": "bat"
+ },
+ {
+  "page": 74,
+  "word": "yogurt",
+  "meaning": "A soft, creamy food made from milk.",
+  "example": "I eat yogurt with fruit.",
+  "picture": "yogurt"
+ },
+ {
+  "page": 74,
+  "word": "yo-yo",
+  "meaning": "A toy that goes up and down on a string.",
+  "example": "I play with my yo-yo.",
+  "picture": "yo-yo"
+ },
+ {
+  "page": 74,
+  "word": "yak",
+  "meaning": "A big hairy animal like a cow. It lives in cold mountains.",
+  "example": "The yak lives in the mountains.",
+  "picture": "yak"
+ },
+ {
+  "page": 74,
+  "word": "ship",
+  "meaning": "A very big boat.",
+  "example": "The ship sails on the sea.",
+  "picture": "ship"
+ },
+ {
+  "page": 75,
+  "word": "day",
+  "meaning": "The time when it is light outside.",
+  "example": "It is a sunny day.",
+  "picture": "day"
+ },
+ {
+  "page": 75,
+  "word": "spy",
+  "meaning": "A person who watches others in secret.",
+  "example": "The spy wears dark glasses.",
+  "picture": "spy"
+ },
+ {
+  "page": 78,
+  "word": "school",
+  "meaning": "A place where children go to learn.",
+  "example": "I go to school every day.",
+  "picture": "school"
+ },
+ {
+  "page": 78,
+  "word": "board",
+  "meaning": "A big flat surface on the classroom wall. The teacher writes on it.",
+  "example": "The teacher writes on the board.",
+  "picture": "board"
+ },
+ {
+  "page": 79,
+  "word": "watch",
+  "meaning": "A small clock you wear on your wrist.",
+  "example": "My watch says eight o'clock.",
+  "picture": "watch"
+ },
+ {
+  "page": 80,
+  "word": "X-ray",
+  "meaning": "A special photo that shows the bones inside your body.",
+  "example": "The doctor looks at my X-ray.",
+  "picture": "x-ray"
+ },
+ {
+  "page": 81,
+  "word": "moose",
+  "meaning": "A very big deer with large, flat horns.",
+  "example": "The moose has big horns.",
+  "picture": "moose"
+ },
+ {
+  "page": 83,
+  "word": "lion",
+  "meaning": "A big wild cat. The male has a big mane around his head.",
+  "example": "The lion is the king of animals.",
+  "picture": "lion"
+ },
+ {
+  "page": 83,
+  "word": "leaf",
+  "meaning": "The flat green part of a plant or tree.",
+  "example": "A green leaf falls from the tree.",
+  "picture": "leaf"
+ },
+ {
+  "page": 86,
+  "word": "water",
+  "meaning": "The clear liquid you drink. Rain, rivers and the sea are made of it.",
+  "example": "I drink a glass of water.",
+  "picture": "water"
+ },
+ {
+  "page": 86,
+  "word": "wolf",
+  "meaning": "A wild animal like a big dog. It howls.",
+  "example": "The wolf howls at the moon.",
+  "picture": "wolf"
+ },
+ {
+  "page": 86,
+  "word": "web",
+  "meaning": "A net a spider makes to catch insects.",
+  "example": "The spider is in its web.",
+  "picture": "web"
+ },
+ {
+  "page": 87,
+  "word": "window",
+  "meaning": "Glass in a wall. You can look outside through it.",
+  "example": "Look out of the window.",
+  "picture": "window"
+ },
+ {
+  "page": 88,
+  "word": "well",
+  "meaning": "A deep hole in the ground with water at the bottom.",
+  "example": "We get water from the well.",
+  "picture": "well"
+ },
+ {
+  "page": 88,
+  "word": "bell",
+  "meaning": "A metal thing that rings when you shake or hit it.",
+  "example": "The school bell rings.",
+  "picture": "bell"
+ },
+ {
+  "page": 88,
+  "word": "shell",
+  "meaning": "The hard outside of an egg, a nut or a sea animal.",
+  "example": "I find a shell on the beach.",
+  "picture": "shell"
+ },
+ {
+  "page": 90,
+  "word": "queen",
+  "meaning": "A woman who rules a country. She wears a crown.",
+  "example": "The queen has a crown.",
+  "picture": "queen"
+ },
+ {
+  "page": 90,
+  "word": "quilt",
+  "meaning": "A warm, thick blanket for your bed.",
+  "example": "My quilt keeps me warm.",
+  "picture": "quilt"
+ },
+ {
+  "page": 96,
+  "word": "cheese",
+  "meaning": "A yellow or white food made from milk. Mice love it.",
+  "example": "The mouse eats the cheese.",
+  "picture": "cheese"
+ },
+ {
+  "page": 96,
+  "word": "sheep",
+  "meaning": "A farm animal with soft wool. It says \"baa\".",
+  "example": "The sheep says baa.",
+  "picture": "sheep"
+ },
+ {
+  "page": 96,
+  "word": "chips",
+  "meaning": "Thin pieces of fried potato.",
+  "example": "I like chips with ketchup.",
+  "picture": "chips"
+ },
+ {
+  "page": 96,
+  "word": "chicken",
+  "meaning": "A farm bird. Hens and roosters are this kind of bird.",
+  "example": "The chicken lives on the farm.",
+  "picture": "chicken"
+ },
+ {
+  "page": 96,
+  "word": "shop",
+  "meaning": "A place where you buy things.",
+  "example": "We buy bread at the shop.",
+  "picture": "shop"
+ },
+ {
+  "page": 96,
+  "word": "father",
+  "meaning": "Your dad.",
+  "example": "My father reads me a story.",
+  "picture": "father"
+ },
+ {
+  "page": 96,
+  "word": "mother",
+  "meaning": "Your mum.",
+  "example": "My mother makes a cake.",
+  "picture": "mother"
+ },
+ {
+  "page": 96,
+  "word": "thunder",
+  "meaning": "The loud boom you hear in a storm.",
+  "example": "I hear thunder in the storm.",
+  "picture": "thunder"
+ },
+ {
+  "page": 96,
+  "word": "moth",
+  "meaning": "An insect like a butterfly. It flies at night.",
+  "example": "The moth flies to the lamp.",
+  "picture": "moth"
+ },
+ {
+  "page": 96,
+  "word": "path",
+  "meaning": "A small road for walking.",
+  "example": "We walk on the path.",
+  "picture": "path"
+ },
+ {
+  "page": 96,
+  "word": "cloth",
+  "meaning": "Soft material. Shirts and dresses are made from it.",
+  "example": "Clean the table with a cloth.",
+  "picture": "cloth"
+ },
+ {
+  "page": 96,
+  "word": "sloth",
+  "meaning": "A very slow animal that hangs from trees.",
+  "example": "The sloth is very slow.",
+  "picture": "sloth"
+ },
+ {
+  "page": 96,
+  "word": "thumb",
+  "meaning": "Your short, thick finger.",
+  "example": "I give you a thumbs up with my thumb.",
+  "picture": "thumb"
+ },
+ {
+  "page": 96,
+  "word": "tooth",
+  "meaning": "One of the hard white things in your mouth. You bite with it.",
+  "example": "I have a wobbly tooth.",
+  "picture": "tooth"
+ },
+ {
+  "page": 96,
+  "word": "bath",
+  "meaning": "A big tub of water. You wash your body in it.",
+  "example": "I have a bath every night.",
+  "picture": "bath"
+ },
+ {
+  "page": 97,
+  "word": "dolphin",
+  "meaning": "A smart sea animal. It swims and jumps and likes to play.",
+  "example": "The dolphin jumps out of the water.",
+  "picture": "dolphin"
+ },
+ {
+  "page": 97,
+  "word": "phone",
+  "meaning": "You use it to talk to someone far away.",
+  "example": "Mum talks on the phone.",
+  "picture": "phone"
+ },
+ {
+  "page": 97,
+  "word": "photo",
+  "meaning": "A picture you take with a camera or phone.",
+  "example": "Let's take a photo!",
+  "picture": "photo"
+ },
+ {
+  "page": 97,
+  "word": "pharmacy",
+  "meaning": "A shop where you buy medicine.",
+  "example": "We buy medicine at the pharmacy.",
+  "picture": "pharmacy"
+ },
+ {
+  "page": 97,
+  "word": "geography",
+  "meaning": "Learning about the Earth: countries, seas and mountains.",
+  "example": "In geography we learn about maps.",
+  "picture": "geography"
+ },
+ {
+  "page": 97,
+  "word": "whale",
+  "meaning": "The biggest animal in the sea.",
+  "example": "The whale is very big.",
+  "picture": "whale"
+ },
+ {
+  "page": 97,
+  "word": "wheel",
+  "meaning": "A round thing that turns. Cars and bikes roll on them.",
+  "example": "The car has a flat wheel.",
+  "picture": "wheel"
+ },
+ {
+  "page": 97,
+  "word": "wheat",
+  "meaning": "A plant. Its seeds are used to make bread.",
+  "example": "Bread is made from wheat.",
+  "picture": "wheat"
+ },
+ {
+  "page": 97,
+  "word": "whistle",
+  "meaning": "A small thing you blow into to make a loud sound.",
+  "example": "The teacher blows a whistle.",
+  "picture": "whistle"
+ },
+ {
+  "page": 97,
+  "word": "whip",
+  "meaning": "A long thin rope on a handle.",
+  "example": "The farmer has a whip.",
+  "picture": "whip"
+ },
+ {
+  "page": 97,
+  "word": "whisk",
+  "meaning": "A kitchen tool for mixing eggs or cream fast.",
+  "example": "Mum mixes the eggs with a whisk.",
+  "picture": "whisk"
+ },
+ {
+  "page": 97,
+  "word": "chick",
+  "meaning": "A baby hen. It is small, yellow and fluffy.",
+  "example": "The chick is small and yellow.",
+  "picture": "chick"
+ },
+ {
+  "page": 97,
+  "word": "chair",
+  "meaning": "A seat with legs and a back.",
+  "example": "Sit on the chair, please.",
+  "picture": "chair"
+ },
+ {
+  "page": 99,
+  "word": "cab",
+  "meaning": "A taxi. A car you pay to take you somewhere.",
+  "example": "We go home in a cab.",
+  "picture": "cab"
+ },
+ {
+  "page": 99,
+  "word": "pad",
+  "meaning": "Sheets of paper joined together for writing.",
+  "example": "I draw on my pad.",
+  "picture": "pad"
+ },
+ {
+  "page": 100,
+  "word": "wig",
+  "meaning": "Fake hair that you wear on your head.",
+  "example": "The clown wears a funny wig.",
+  "picture": "wig"
+ },
+ {
+  "page": 100,
+  "word": "gig",
+  "meaning": "A music show.",
+  "example": "The band plays a gig tonight.",
+  "picture": "gig"
+ },
+ {
+  "page": 100,
+  "word": "jig",
+  "meaning": "A fast, happy dance.",
+  "example": "We dance a jig.",
+  "picture": "jig"
+ },
+ {
+  "page": 101,
+  "word": "yam",
+  "meaning": "A vegetable like a sweet potato.",
+  "example": "I eat a sweet yam.",
+  "picture": "yam"
+ },
+ {
+  "page": 101,
+  "word": "ram",
+  "meaning": "A boy sheep with curly horns.",
+  "example": "The ram has curly horns.",
+  "picture": "ram"
+ },
+ {
+  "page": 101,
+  "word": "hog",
+  "meaning": "A pig.",
+  "example": "The hog rolls in the mud.",
+  "picture": "hog"
+ },
+ {
+  "page": 101,
+  "word": "friend",
+  "meaning": "A person you like and play with.",
+  "example": "Anna is my best friend.",
+  "picture": "friend"
+ },
+ {
+  "page": 101,
+  "word": "log",
+  "meaning": "A thick piece of a tree trunk.",
+  "example": "The frog sits on a log.",
+  "picture": "log"
+ },
+ {
+  "page": 101,
+  "word": "fog",
+  "meaning": "A cloud near the ground. When it comes, it is hard to see.",
+  "example": "I can't see in the fog.",
+  "picture": "fog"
+ },
+ {
+  "page": 102,
+  "word": "bike",
+  "meaning": "It has two wheels. You ride it with your feet on pedals.",
+  "example": "I ride my bike in the park.",
+  "picture": "bike"
+ },
+ {
+  "page": 102,
+  "word": "siblings",
+  "meaning": "Brothers and sisters.",
+  "example": "I have two siblings.",
+  "picture": "siblings"
+ },
+ {
+  "page": 102,
+  "word": "sister",
+  "meaning": "A girl who has the same mum and dad as you.",
+  "example": "My sister is five.",
+  "picture": "sister"
+ },
+ {
+  "page": 102,
+  "word": "brother",
+  "meaning": "A boy who has the same mum and dad as you.",
+  "example": "My brother plays football.",
+  "picture": "brother"
+ },
+ {
+  "page": 103,
+  "word": "Monday",
+  "meaning": "The first day of the school week.",
+  "example": "On Monday I go to school.",
+  "picture": "monday"
+ },
+ {
+  "page": 103,
+  "word": "market",
+  "meaning": "A place, often outside, where people sell food and things.",
+  "example": "We buy fruit at the market.",
+  "picture": "market"
+ },
+ {
+  "page": 103,
+  "word": "mango",
+  "meaning": "A sweet, juicy fruit. It is orange inside.",
+  "example": "The mango is sweet.",
+  "picture": "mango"
+ },
+ {
+  "page": 103,
+  "word": "vegetables",
+  "meaning": "Plants we eat, like carrots, peas and potatoes.",
+  "example": "Eat your vegetables!",
+  "picture": "vegetables"
+ },
+ {
+  "page": 103,
+  "word": "pie",
+  "meaning": "A food with pastry outside and fruit or meat inside.",
+  "example": "Grandma makes an apple pie.",
+  "picture": "pie"
+ },
+ {
+  "page": 103,
+  "word": "home",
+  "meaning": "The place where you live.",
+  "example": "I go home after school.",
+  "picture": "home"
+ },
+ {
+  "page": 103,
+  "word": "yesterday",
+  "meaning": "The day before today.",
+  "example": "Yesterday I went to the park.",
+  "picture": "yesterday"
+ },
+ {
+  "page": 104,
+  "word": "shark",
+  "meaning": "A big fish with sharp teeth.",
+  "example": "The shark has sharp teeth.",
+  "picture": "shark"
+ },
+ {
+  "page": 104,
+  "word": "shore",
+  "meaning": "The land at the edge of the sea.",
+  "example": "We play on the shore.",
+  "picture": "shore"
+ },
+ {
+  "page": 104,
+  "word": "teeth",
+  "meaning": "More than one tooth.",
+  "example": "Brush your teeth every night.",
+  "picture": "teeth"
+ },
+ {
+  "page": 104,
+  "word": "shadow",
+  "meaning": "A dark shape on the ground when you block the light.",
+  "example": "I can see my shadow.",
+  "picture": "shadow"
+ },
+ {
+  "page": 104,
+  "word": "lunch",
+  "meaning": "The meal you eat in the middle of the day.",
+  "example": "We eat lunch at twelve.",
+  "picture": "lunch"
+ },
+ {
+  "page": 104,
+  "word": "food",
+  "meaning": "What we eat.",
+  "example": "I like healthy food.",
+  "picture": "food"
+ },
+ {
+  "page": 104,
+  "word": "mum",
+  "meaning": "Your mother.",
+  "example": "My mum is kind.",
+  "picture": "mum"
+ },
+ {
+  "page": 104,
+  "word": "carrot",
+  "meaning": "A long orange vegetable. Rabbits love it.",
+  "example": "The rabbit eats a carrot.",
+  "picture": "carrot"
+ },
+ {
+  "page": 104,
+  "word": "ranch",
+  "meaning": "A creamy white sauce for dipping vegetables.",
+  "example": "I dip my carrot in ranch.",
+  "picture": "ranch"
+ },
+ {
+  "page": 104,
+  "word": "cookie",
+  "meaning": "A small, sweet, flat cake. Also called a biscuit.",
+  "example": "Can I have a cookie?",
+  "picture": "cookie"
+ },
+ {
+  "page": 104,
+  "word": "fruit punch",
+  "meaning": "A sweet drink made from apples, oranges and other sweet foods from trees.",
+  "example": "I drink fruit punch at the party.",
+  "picture": "fruit-punch"
+ },
+ {
+  "page": 104,
+  "word": "night",
+  "meaning": "The dark time when you sleep.",
+  "example": "I sleep at night.",
+  "picture": "night"
+ },
+ {
+  "page": 105,
+  "word": "Tuesday",
+  "meaning": "The day after Monday.",
+  "example": "On Tuesday I have swimming.",
+  "picture": "tuesday"
+ },
+ {
+  "page": 105,
+  "word": "Wednesday",
+  "meaning": "The day after Tuesday.",
+  "example": "On Wednesday I have English.",
+  "picture": "wednesday"
+ },
+ {
+  "page": 105,
+  "word": "Thursday",
+  "meaning": "The day after Wednesday.",
+  "example": "On Thursday we go to the park.",
+  "picture": "thursday"
+ },
+ {
+  "page": 105,
+  "word": "math",
+  "meaning": "Learning about numbers and counting.",
+  "example": "I like math and counting.",
+  "picture": "math"
+ },
+ {
+  "page": 105,
+  "word": "week",
+  "meaning": "Seven days, from Monday to Sunday.",
+  "example": "There are seven days in a week.",
+  "picture": "week"
+ },
+ {
+  "page": 105,
+  "word": "tooth fairy",
+  "meaning": "A pretend magic helper who takes your lost baby teeth and leaves a present.",
+  "example": "The tooth fairy brings me a coin.",
+  "picture": "tooth-fairy"
+ },
+ {
+  "page": 106,
+  "word": "gopher",
+  "meaning": "A small furry animal that digs holes and lives under the ground.",
+  "example": "The gopher digs a hole.",
+  "picture": "gopher"
+ },
+ {
+  "page": 106,
+  "word": "yard",
+  "meaning": "The grass area around a house.",
+  "example": "We play in the yard.",
+  "picture": "yard"
+ },
+ {
+  "page": 106,
+  "word": "trophy",
+  "meaning": "A prize, like a gold cup, for winning.",
+  "example": "I win a trophy!",
+  "picture": "trophy"
+ }
+]
